@@ -90,7 +90,7 @@ education_analytics/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/education_analytics.git
+   git clone https://github.com/gyanendra-hash/education-analytics.git
    cd education_analytics
    ```
 
@@ -108,7 +108,7 @@ education_analytics/
 
 1. **Clone and setup:**
    ```bash
-   git clone https://github.com/yourusername/education_analytics.git
+   git clone https://github.com/gyanendra-hash/education-analytics.git
    cd education_analytics
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -329,8 +329,8 @@ We welcome contributions! Please follow these steps:
 
 Found a bug or have a feature request? Please open an issue on GitHub:
 
-- 🐛 [Report a Bug](https://github.com/yourusername/education_analytics/issues/new?template=bug_report.md)
-- 💡 [Request a Feature](https://github.com/yourusername/education_analytics/issues/new?template=feature_request.md)
+- 🐛 [Report a Bug](https://github.com/gyanendra-hash/education-analytics/issues/new?template=bug_report.md)
+- 💡 [Request a Feature](https://github.com/gyanendra-hash/education-analytics/issues/new?template=feature_request.md)
 
 ## 📄 License
 
